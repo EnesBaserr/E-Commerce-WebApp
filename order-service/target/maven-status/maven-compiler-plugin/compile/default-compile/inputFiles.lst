@@ -1,0 +1,11 @@
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\dto\OrderLineItemsDto.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\event\OrderPlacedEvent.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\service\OrderService.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\dto\OrderRequest.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\model\Order.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\dto\InventoryResponse.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\model\OrderLineItems.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\repository\OrderRepository.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\OrderServiceApplication.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\controller\OrderController.java
+C:\Users\enesb\OneDrive\Masaüstü\microservice\order-service\src\main\java\com\enesbaser\orderservice\config\WebClientConfig.java

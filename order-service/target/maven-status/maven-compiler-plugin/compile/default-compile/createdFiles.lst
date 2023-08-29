@@ -1,0 +1,12 @@
+com\enesbaser\orderservice\controller\OrderController.class
+com\enesbaser\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\enesbaser\orderservice\event\OrderPlacedEvent.class
+com\enesbaser\orderservice\config\WebClientConfig.class
+com\enesbaser\orderservice\dto\OrderRequest.class
+com\enesbaser\orderservice\model\OrderLineItems.class
+com\enesbaser\orderservice\model\Order.class
+com\enesbaser\orderservice\repository\OrderRepository.class
+com\enesbaser\orderservice\OrderServiceApplication.class
+com\enesbaser\orderservice\dto\InventoryResponse.class
+com\enesbaser\orderservice\service\OrderService.class
+com\enesbaser\orderservice\dto\OrderLineItemsDto.class

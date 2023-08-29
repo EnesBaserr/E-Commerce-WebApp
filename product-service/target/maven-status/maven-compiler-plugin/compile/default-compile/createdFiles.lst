@@ -1,0 +1,10 @@
+com\enesbaser\productservice\dto\ProductResponse.class
+com\enesbaser\productservice\model\Product$ProductBuilder.class
+com\enesbaser\productservice\controller\ProductController.class
+com\enesbaser\productservice\dto\ProductRequest.class
+com\enesbaser\productservice\ProductServiceApplication.class
+com\enesbaser\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\enesbaser\productservice\repository\ProductRepository.class
+com\enesbaser\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\enesbaser\productservice\model\Product.class
+com\enesbaser\productservice\service\ProductService.class
